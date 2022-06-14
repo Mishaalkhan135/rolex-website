@@ -51,7 +51,7 @@ export default function RecipeReviewCard() {
 				/>
 				<img
 					src='https://tse1.mm.bing.net/th?id=OIP.FxTdh1eAdFFO3POez-8IEgHaE7&pid=Api&P=0&w=230&h=153'
-					alt='rolex image'
+					alt='rolex '
 					className='w-full h-72'
 				/>
 				<CardContent>
@@ -142,7 +142,7 @@ export default function RecipeReviewCard() {
 				/>
 				<img
 					src='https://tse3.mm.bing.net/th?id=OIP.UXFHOz7l93nEPw4tzc0EdQHaHa&pid=Api&P=0&w=153&h=153'
-					alt='rolex image'
+					alt='rolex '
 					className='w-full h-72'
 				/>
 				<CardContent>
@@ -233,7 +233,7 @@ export default function RecipeReviewCard() {
 				/>
 				<img
 					src='https://tse2.mm.bing.net/th?id=OIP.O5XeqCheX59wQGnrHBbr4wHaHV&pid=Api&P=0&w=154&h=153'
-					alt='rolex image'
+					alt='rolex '
 					className='w-full h-72'
 				/>
 				<CardContent>
@@ -324,7 +324,7 @@ export default function RecipeReviewCard() {
 				/>
 				<img
 					src='https://tse4.mm.bing.net/th?id=OIP._-Xv-t1X42NG1nMItRukbAHaHa&pid=Api&P=0&w=153&h=153'
-					alt='rolex image'
+					alt='rolex '
 					className='w-full h-72'
 				/>
 				<CardContent>
@@ -415,7 +415,7 @@ export default function RecipeReviewCard() {
 				/>
 				<img
 					src='https://tse3.mm.bing.net/th?id=OIP.oHne0Cn4o1Xw4sYjcchQTgHaHa&pid=Api&P=0&w=174&h=174'
-					alt='rolex image'
+					alt='rolex '
 					className='w-full h-72'
 				/>
 				<CardContent>
@@ -506,7 +506,7 @@ export default function RecipeReviewCard() {
 				/>
 				<img
 					src='https://tse1.mm.bing.net/th?id=OIP.NPaYwFm-3CmH5pmlrePO1gHaHa&pid=Api&P=0&w=164&h=164'
-					alt='rolex image'
+					alt='rolex '
 					className='w-full h-72'
 				/>
 				<CardContent>
@@ -598,7 +598,7 @@ export default function RecipeReviewCard() {
 				/>
 				<img
 					src='https://tse1.mm.bing.net/th?id=OIP.9iyC-aHjrN7Oa-Y-HFfz9QHaHa&pid=Api&P=0&w=156&h=156'
-					alt='rolex image'
+					alt='rolex '
 					className='w-full h-72'
 				/>
 				<CardContent>
@@ -689,7 +689,7 @@ export default function RecipeReviewCard() {
 				/>
 				<img
 					src='https://tse4.mm.bing.net/th?id=OIP.2zr_6skM_Xtr0gMGps-7EgHaFI&pid=Api&P=0&w=221&h=153'
-					alt='rolex image'
+					alt='rolex '
 					className='w-full h-72'
 				/>
 				<CardContent>
@@ -780,7 +780,7 @@ export default function RecipeReviewCard() {
 				/>
 				<img
 					src='https://tse4.mm.bing.net/th?id=OIP.6rN8xRG-A-hrGAeT9LXPHQHaHa&pid=Api&P=0&w=162&h=162'
-					alt='rolex image'
+					alt='rolex '
 					className='w-full h-72'
 				/>
 				<CardContent>
