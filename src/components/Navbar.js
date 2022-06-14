@@ -9,7 +9,7 @@ const Navbar = () => {
 	};
 
 	return (
-		<div className='flex justify-between items-center h-20 max-x-[1440px] mx-auto  text-black border-2 border-gray-300 z-auto'>
+		<div className='flex justify-between items-center h-20 max-x-[1440px] mx-auto  text-black border-2 border-gray-300'>
 			<img
 				src='https://tse4.mm.bing.net/th?id=OIP.GzWSmbwQfMRgVewE1b_lVgHaCS&pid=Api&P=0&w=533&h=164'
 				alt='logo for rolex'
